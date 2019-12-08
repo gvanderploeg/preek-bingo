@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.woord {
+  border: 2px solid black;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 3px;
+
+}
+.woord.ticked {
+  color: lightgrey;
+  text-decoration: line-through;
+  border: 2px solid lightgrey;
+}
