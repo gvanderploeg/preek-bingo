@@ -1,25 +1,13 @@
 {
   "files": {
-    "main.css": "/preek-bingo/static/css/main.01ec80bb.chunk.css",
-    "main.js": "/preek-bingo/static/js/main.4c61ba60.chunk.js",
-    "main.js.map": "/preek-bingo/static/js/main.4c61ba60.chunk.js.map",
-    "runtime-main.js": "/preek-bingo/static/js/runtime-main.e9edfc00.js",
-    "runtime-main.js.map": "/preek-bingo/static/js/runtime-main.e9edfc00.js.map",
-    "static/css/2.64a99b10.chunk.css": "/preek-bingo/static/css/2.64a99b10.chunk.css",
-    "static/js/2.61ea3f2c.chunk.js": "/preek-bingo/static/js/2.61ea3f2c.chunk.js",
-    "static/js/2.61ea3f2c.chunk.js.map": "/preek-bingo/static/js/2.61ea3f2c.chunk.js.map",
+    "main.css": "/preek-bingo/static/css/main.e1836fc4.css",
+    "main.js": "/preek-bingo/static/js/main.ce8c1996.js",
     "index.html": "/preek-bingo/index.html",
-    "precache-manifest.bab2c57e8e519092f33a42d77d021bbb.js": "/preek-bingo/precache-manifest.bab2c57e8e519092f33a42d77d021bbb.js",
-    "service-worker.js": "/preek-bingo/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/preek-bingo/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.01ec80bb.chunk.css.map": "/preek-bingo/static/css/main.01ec80bb.chunk.css.map",
-    "static/js/2.61ea3f2c.chunk.js.LICENSE": "/preek-bingo/static/js/2.61ea3f2c.chunk.js.LICENSE"
+    "main.e1836fc4.css.map": "/preek-bingo/static/css/main.e1836fc4.css.map",
+    "main.ce8c1996.js.map": "/preek-bingo/static/js/main.ce8c1996.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9edfc00.js",
-    "static/css/2.64a99b10.chunk.css",
-    "static/js/2.61ea3f2c.chunk.js",
-    "static/css/main.01ec80bb.chunk.css",
-    "static/js/main.4c61ba60.chunk.js"
+    "static/css/main.e1836fc4.css",
+    "static/js/main.ce8c1996.js"
   ]
 }
